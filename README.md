@@ -1,4 +1,6 @@
 # Exploratory-Data-Analysis_week1
+
+
 # As the computer memory was low, i have copied the rang of data to be processed on a txt file.
 df <- read.table("C:/Users/f1/Desktop/Coursera/course_3/peer_graded/household_power_consumption_1.txt", header = TRUE, sep = ";")
 
